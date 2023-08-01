@@ -26,7 +26,6 @@ Despite being the most optimal starter, `toeas` only appears in the `accepted` d
 
 When we use the brute force strategy on the `answers` dataset, we find that the most optimal word is `arise` which eliminates 92.74% of words in the dataset. While `arise` has a lower percentage of words eliminated when compared to `toeas`, it is present in the `answers` dataset and is in rotation to be the solution to a wordle sometime in the future.
 ## Files
-- `datasets/` 
+- `datasets/`
 - `analysis.ipynb` 
 - `solver.py`
-- `index.html`
